@@ -1,0 +1,337 @@
+commodity,partition,target_month,model,prediction,actual,protocol
+Potatoes,validation,2026-01,Last-month baseline,6.34201,5.654342,harmonised
+Potatoes,validation,2026-01,Same-month-last-year baseline,6.294005,5.654342,harmonised
+Potatoes,validation,2026-02,Last-month baseline,5.654342,5.442639,harmonised
+Potatoes,validation,2026-02,Same-month-last-year baseline,7.544171,5.442639,harmonised
+Potatoes,validation,2026-03,Last-month baseline,5.442639,3.382263,harmonised
+Potatoes,validation,2026-03,Same-month-last-year baseline,6.358021,3.382263,harmonised
+Potatoes,validation,2026-04,Last-month baseline,3.382263,4.009881,harmonised
+Potatoes,validation,2026-04,Same-month-last-year baseline,5.475477,4.009881,harmonised
+Potatoes,test,2026-05,Last-month baseline,4.009881,4.197483,harmonised
+Potatoes,test,2026-05,Same-month-last-year baseline,6.434688,4.197483,harmonised
+Potatoes,test,2026-06,Last-month baseline,4.197483,3.993728,harmonised
+Potatoes,test,2026-06,Same-month-last-year baseline,6.200927,3.993728,harmonised
+Potatoes,test,2026-07,Last-month baseline,3.993728,5.058435,harmonised
+Potatoes,test,2026-07,Same-month-last-year baseline,6.200843,5.058435,harmonised
+Potatoes,test,2026-08,Last-month baseline,5.058435,5.913213,harmonised
+Potatoes,test,2026-08,Same-month-last-year baseline,5.087861,5.913213,harmonised
+Brown onions,validation,2026-01,Last-month baseline,4.560331,4.563583,harmonised
+Brown onions,validation,2026-01,Same-month-last-year baseline,4.341017,4.563583,harmonised
+Brown onions,validation,2026-02,Last-month baseline,4.563583,5.110602,harmonised
+Brown onions,validation,2026-02,Same-month-last-year baseline,4.037303,5.110602,harmonised
+Brown onions,validation,2026-03,Last-month baseline,5.110602,6.443391,harmonised
+Brown onions,validation,2026-03,Same-month-last-year baseline,4.779772,6.443391,harmonised
+Brown onions,validation,2026-04,Last-month baseline,6.443391,7.468241,harmonised
+Brown onions,validation,2026-04,Same-month-last-year baseline,4.149746,7.468241,harmonised
+Brown onions,test,2026-05,Last-month baseline,7.468241,5.522327,harmonised
+Brown onions,test,2026-05,Same-month-last-year baseline,6.418431,5.522327,harmonised
+Brown onions,test,2026-06,Last-month baseline,5.522327,12.256817,harmonised
+Brown onions,test,2026-06,Same-month-last-year baseline,10.824223,12.256817,harmonised
+Brown onions,test,2026-07,Last-month baseline,12.256817,10.667018,harmonised
+Brown onions,test,2026-07,Same-month-last-year baseline,8.294336,10.667018,harmonised
+Brown onions,test,2026-08,Last-month baseline,10.667018,15.517288,harmonised
+Brown onions,test,2026-08,Same-month-last-year baseline,6.468092,15.517288,harmonised
+Tomatoes,validation,2026-01,Last-month baseline,11.949915,7.634633,harmonised
+Tomatoes,validation,2026-01,Same-month-last-year baseline,9.858652,7.634633,harmonised
+Tomatoes,validation,2026-02,Last-month baseline,7.634633,9.789748,harmonised
+Tomatoes,validation,2026-02,Same-month-last-year baseline,11.937247,9.789748,harmonised
+Tomatoes,validation,2026-03,Last-month baseline,9.789748,15.36318,harmonised
+Tomatoes,validation,2026-03,Same-month-last-year baseline,13.21428,15.36318,harmonised
+Tomatoes,validation,2026-04,Last-month baseline,15.36318,15.87658,harmonised
+Tomatoes,validation,2026-04,Same-month-last-year baseline,16.179773,15.87658,harmonised
+Tomatoes,test,2026-05,Last-month baseline,15.87658,26.701149,harmonised
+Tomatoes,test,2026-05,Same-month-last-year baseline,14.141247,26.701149,harmonised
+Tomatoes,test,2026-06,Last-month baseline,26.701149,20.150297,harmonised
+Tomatoes,test,2026-06,Same-month-last-year baseline,13.640332,20.150297,harmonised
+Tomatoes,test,2026-07,Last-month baseline,20.150297,14.174655,harmonised
+Tomatoes,test,2026-07,Same-month-last-year baseline,18.9699,14.174655,harmonised
+Tomatoes,test,2026-08,Last-month baseline,14.174655,6.613675,harmonised
+Tomatoes,test,2026-08,Same-month-last-year baseline,10.039528,6.613675,harmonised
+Potatoes,validation,2026-01,Random Forest,5.985943,5.654342,harmonised
+Potatoes,validation,2026-02,Random Forest,5.838935,5.442639,harmonised
+Potatoes,validation,2026-03,Random Forest,5.484221,3.382263,harmonised
+Potatoes,validation,2026-04,Random Forest,3.589493,4.009881,harmonised
+Potatoes,test,2026-05,Random Forest,4.626344,4.197483,harmonised
+Potatoes,test,2026-06,Random Forest,4.807878,3.993728,harmonised
+Potatoes,test,2026-07,Random Forest,4.628409,5.058435,harmonised
+Potatoes,test,2026-08,Random Forest,5.661289,5.913213,harmonised
+Brown onions,validation,2026-01,Random Forest,4.603704,4.563583,harmonised
+Brown onions,validation,2026-02,Random Forest,5.643925,5.110602,harmonised
+Brown onions,validation,2026-03,Random Forest,6.10361,6.443391,harmonised
+Brown onions,validation,2026-04,Random Forest,7.12327,7.468241,harmonised
+Brown onions,test,2026-05,Random Forest,6.592136,5.522327,harmonised
+Brown onions,test,2026-06,Random Forest,5.111097,12.256817,harmonised
+Brown onions,test,2026-07,Random Forest,10.941095,10.667018,harmonised
+Brown onions,test,2026-08,Random Forest,9.279711,15.517288,harmonised
+Tomatoes,validation,2026-01,Random Forest,10.867943,7.634633,harmonised
+Tomatoes,validation,2026-02,Random Forest,9.049231,9.789748,harmonised
+Tomatoes,validation,2026-03,Random Forest,10.145891,15.36318,harmonised
+Tomatoes,validation,2026-04,Random Forest,15.308879,15.87658,harmonised
+Tomatoes,test,2026-05,Random Forest,16.072927,26.701149,harmonised
+Tomatoes,test,2026-06,Random Forest,23.385282,20.150297,harmonised
+Tomatoes,test,2026-07,Random Forest,16.798793,14.174655,harmonised
+Tomatoes,test,2026-08,Random Forest,16.035276,6.613675,harmonised
+Potatoes,validation,2026-01,XGBoost,5.991945,5.654342,harmonised
+Potatoes,validation,2026-02,XGBoost,5.339216,5.442639,harmonised
+Potatoes,validation,2026-03,XGBoost,5.494368,3.382263,harmonised
+Potatoes,validation,2026-04,XGBoost,5.654927,4.009881,harmonised
+Potatoes,test,2026-05,XGBoost,5.800943,4.197483,harmonised
+Potatoes,test,2026-06,XGBoost,5.860704,3.993728,harmonised
+Potatoes,test,2026-07,XGBoost,5.860704,5.058435,harmonised
+Potatoes,test,2026-08,XGBoost,6.124872,5.913213,harmonised
+Brown onions,validation,2026-01,XGBoost,4.686287,4.563583,harmonised
+Brown onions,validation,2026-02,XGBoost,4.686287,5.110602,harmonised
+Brown onions,validation,2026-03,XGBoost,4.686287,6.443391,harmonised
+Brown onions,validation,2026-04,XGBoost,7.937103,7.468241,harmonised
+Brown onions,test,2026-05,XGBoost,6.263114,5.522327,harmonised
+Brown onions,test,2026-06,XGBoost,5.146747,12.256817,harmonised
+Brown onions,test,2026-07,XGBoost,6.269473,10.667018,harmonised
+Brown onions,test,2026-08,XGBoost,6.090616,15.517288,harmonised
+Tomatoes,validation,2026-01,XGBoost,8.930789,7.634633,harmonised
+Tomatoes,validation,2026-02,XGBoost,11.754166,9.789748,harmonised
+Tomatoes,validation,2026-03,XGBoost,13.261678,15.36318,harmonised
+Tomatoes,validation,2026-04,XGBoost,12.030334,15.87658,harmonised
+Tomatoes,test,2026-05,XGBoost,15.323084,26.701149,harmonised
+Tomatoes,test,2026-06,XGBoost,10.445652,20.150297,harmonised
+Tomatoes,test,2026-07,XGBoost,8.801466,14.174655,harmonised
+Tomatoes,test,2026-08,XGBoost,13.663256,6.613675,harmonised
+Potatoes,validation,2026-01,SVR,5.590431,5.654342,harmonised
+Potatoes,validation,2026-02,SVR,5.282537,5.442639,harmonised
+Potatoes,validation,2026-03,SVR,5.458433,3.382263,harmonised
+Potatoes,validation,2026-04,SVR,4.130726,4.009881,harmonised
+Potatoes,test,2026-05,SVR,6.650831,4.197483,harmonised
+Potatoes,test,2026-06,SVR,8.948831,3.993728,harmonised
+Potatoes,test,2026-07,SVR,7.753491,5.058435,harmonised
+Potatoes,test,2026-08,SVR,7.914868,5.913213,harmonised
+Brown onions,validation,2026-01,SVR,4.836039,4.563583,harmonised
+Brown onions,validation,2026-02,SVR,5.106109,5.110602,harmonised
+Brown onions,validation,2026-03,SVR,5.886829,6.443391,harmonised
+Brown onions,validation,2026-04,SVR,6.982105,7.468241,harmonised
+Brown onions,test,2026-05,SVR,7.607657,5.522327,harmonised
+Brown onions,test,2026-06,SVR,5.320194,12.256817,harmonised
+Brown onions,test,2026-07,SVR,7.748834,10.667018,harmonised
+Brown onions,test,2026-08,SVR,6.38709,15.517288,harmonised
+Tomatoes,validation,2026-01,SVR,12.268833,7.634633,harmonised
+Tomatoes,validation,2026-02,SVR,11.963514,9.789748,harmonised
+Tomatoes,validation,2026-03,SVR,14.651446,15.36318,harmonised
+Tomatoes,validation,2026-04,SVR,16.820983,15.87658,harmonised
+Tomatoes,test,2026-05,SVR,15.784188,26.701149,harmonised
+Tomatoes,test,2026-06,SVR,12.017246,20.150297,harmonised
+Tomatoes,test,2026-07,SVR,12.272361,14.174655,harmonised
+Tomatoes,test,2026-08,SVR,12.298025,6.613675,harmonised
+Potatoes,test,2026-05,LSTM,4.404196,4.197483,harmonised
+Potatoes,test,2026-06,LSTM,4.565052,3.993728,harmonised
+Potatoes,test,2026-07,LSTM,4.788654,5.058435,harmonised
+Potatoes,test,2026-08,LSTM,5.023611,5.913213,harmonised
+Potatoes,validation,2026-01,LSTM,6.499,5.654342,harmonised
+Potatoes,validation,2026-02,LSTM,6.458471,5.442639,harmonised
+Potatoes,validation,2026-03,LSTM,6.239972,3.382263,harmonised
+Potatoes,validation,2026-04,LSTM,5.898008,4.009881,harmonised
+Brown onions,validation,2026-01,LSTM,5.12288,4.563583,harmonised
+Brown onions,validation,2026-02,LSTM,5.29375,5.110602,harmonised
+Brown onions,validation,2026-03,LSTM,5.619879,6.443391,harmonised
+Brown onions,validation,2026-04,LSTM,6.096224,7.468241,harmonised
+Brown onions,test,2026-05,LSTM,6.792011,5.522327,harmonised
+Brown onions,test,2026-06,LSTM,6.764244,12.256817,harmonised
+Brown onions,test,2026-07,LSTM,6.761173,10.667018,harmonised
+Brown onions,test,2026-08,LSTM,6.546214,15.517288,harmonised
+Tomatoes,test,2026-05,LSTM,15.368492,26.701149,harmonised
+Tomatoes,test,2026-06,LSTM,12.666561,20.150297,harmonised
+Tomatoes,test,2026-07,LSTM,11.567325,14.174655,harmonised
+Tomatoes,test,2026-08,LSTM,10.54705,6.613675,harmonised
+Tomatoes,validation,2026-01,LSTM,11.428298,7.634633,harmonised
+Tomatoes,validation,2026-02,LSTM,12.538452,9.789748,harmonised
+Tomatoes,validation,2026-03,LSTM,13.826619,15.36318,harmonised
+Tomatoes,validation,2026-04,LSTM,14.886639,15.87658,harmonised
+Potatoes,validation,2026-01,ANN,6.254103,5.654342,harmonised
+Potatoes,validation,2026-02,ANN,5.301889,5.442639,harmonised
+Potatoes,validation,2026-03,ANN,5.265372,3.382263,harmonised
+Potatoes,validation,2026-04,ANN,4.447641,4.009881,harmonised
+Potatoes,test,2026-05,ANN,4.886739,4.197483,harmonised
+Potatoes,test,2026-06,ANN,4.290125,3.993728,harmonised
+Potatoes,test,2026-07,ANN,4.252243,5.058435,harmonised
+Potatoes,test,2026-08,ANN,5.188205,5.913213,harmonised
+Brown onions,validation,2026-01,ANN,5.007899,4.563583,harmonised
+Brown onions,validation,2026-02,ANN,5.311219,5.110602,harmonised
+Brown onions,validation,2026-03,ANN,5.97801,6.443391,harmonised
+Brown onions,validation,2026-04,ANN,7.247463,7.468241,harmonised
+Brown onions,test,2026-05,ANN,7.40568,5.522327,harmonised
+Brown onions,test,2026-06,ANN,4.710183,12.256817,harmonised
+Brown onions,test,2026-07,ANN,8.115463,10.667018,harmonised
+Brown onions,test,2026-08,ANN,6.943865,15.517288,harmonised
+Tomatoes,validation,2026-01,ANN,13.731439,7.634633,harmonised
+Tomatoes,validation,2026-02,ANN,10.237994,9.789748,harmonised
+Tomatoes,validation,2026-03,ANN,13.048427,15.36318,harmonised
+Tomatoes,validation,2026-04,ANN,12.558322,15.87658,harmonised
+Tomatoes,test,2026-05,ANN,12.831796,26.701149,harmonised
+Tomatoes,test,2026-06,ANN,13.732233,20.150297,harmonised
+Tomatoes,test,2026-07,ANN,14.248084,14.174655,harmonised
+Tomatoes,test,2026-08,ANN,15.289975,6.613675,harmonised
+Potatoes,test,2026-05,ANN,6.156673,4.197483,as submitted
+Potatoes,test,2026-05,LSTM,4.404196,4.197483,as submitted
+Potatoes,test,2026-05,Random Forest,4.6263,4.197483,as submitted
+Potatoes,test,2026-05,SVR,6.8375,4.197483,as submitted
+Potatoes,test,2026-05,XGBoost,5.8962,4.197483,as submitted
+Potatoes,test,2026-06,ANN,6.389739,3.993728,as submitted
+Potatoes,test,2026-06,LSTM,4.565052,3.993728,as submitted
+Potatoes,test,2026-06,Random Forest,4.8079,3.993728,as submitted
+Potatoes,test,2026-06,SVR,8.9426,3.993728,as submitted
+Potatoes,test,2026-06,XGBoost,5.8962,3.993728,as submitted
+Potatoes,test,2026-07,ANN,6.325618,5.058435,as submitted
+Potatoes,test,2026-07,LSTM,4.788654,5.058435,as submitted
+Potatoes,test,2026-07,Random Forest,4.6284,5.058435,as submitted
+Potatoes,test,2026-07,SVR,7.6495,5.058435,as submitted
+Potatoes,test,2026-07,XGBoost,5.8962,5.058435,as submitted
+Potatoes,test,2026-08,ANN,6.388395,5.913213,as submitted
+Potatoes,test,2026-08,LSTM,5.023611,5.913213,as submitted
+Potatoes,test,2026-08,Random Forest,5.6613,5.913213,as submitted
+Potatoes,test,2026-08,SVR,7.9962,5.913213,as submitted
+Potatoes,test,2026-08,XGBoost,5.8962,5.913213,as submitted
+Potatoes,validation,2026-01,ANN,6.352276,5.654342,as submitted
+Potatoes,validation,2026-01,LSTM,6.499,5.654342,as submitted
+Potatoes,validation,2026-01,Random Forest,5.9859,5.654342,as submitted
+Potatoes,validation,2026-01,SVR,5.5904,5.654342,as submitted
+Potatoes,validation,2026-01,XGBoost,6.1118,5.654342,as submitted
+Potatoes,validation,2026-02,ANN,5.098185,5.442639,as submitted
+Potatoes,validation,2026-02,LSTM,6.458471,5.442639,as submitted
+Potatoes,validation,2026-02,Random Forest,5.8389,5.442639,as submitted
+Potatoes,validation,2026-02,SVR,5.2825,5.442639,as submitted
+Potatoes,validation,2026-02,XGBoost,5.1543,5.442639,as submitted
+Potatoes,validation,2026-03,ANN,5.198291,3.382263,as submitted
+Potatoes,validation,2026-03,LSTM,6.239972,3.382263,as submitted
+Potatoes,validation,2026-03,Random Forest,5.4842,3.382263,as submitted
+Potatoes,validation,2026-03,SVR,5.4584,3.382263,as submitted
+Potatoes,validation,2026-03,XGBoost,5.4599,3.382263,as submitted
+Potatoes,validation,2026-04,ANN,4.561357,4.009881,as submitted
+Potatoes,validation,2026-04,LSTM,5.898008,4.009881,as submitted
+Potatoes,validation,2026-04,Random Forest,3.5895,4.009881,as submitted
+Potatoes,validation,2026-04,SVR,4.1307,4.009881,as submitted
+Potatoes,validation,2026-04,XGBoost,5.516,4.009881,as submitted
+Brown onions,validation,2026-01,ANN,4.984462,4.563583,as submitted
+Brown onions,validation,2026-01,LSTM,5.12288,4.563583,as submitted
+Brown onions,validation,2026-01,Random Forest,4.6037,4.563583,as submitted
+Brown onions,validation,2026-01,SVR,4.9906,4.563583,as submitted
+Brown onions,validation,2026-01,XGBoost,5.8749,4.563583,as submitted
+Brown onions,validation,2026-02,ANN,5.301195,5.110602,as submitted
+Brown onions,validation,2026-02,LSTM,5.29375,5.110602,as submitted
+Brown onions,validation,2026-02,Random Forest,5.6439,5.110602,as submitted
+Brown onions,validation,2026-02,SVR,5.26,5.110602,as submitted
+Brown onions,validation,2026-02,XGBoost,5.8749,5.110602,as submitted
+Brown onions,validation,2026-03,ANN,5.960545,6.443391,as submitted
+Brown onions,validation,2026-03,LSTM,5.619879,6.443391,as submitted
+Brown onions,validation,2026-03,Random Forest,6.1036,6.443391,as submitted
+Brown onions,validation,2026-03,SVR,6.0201,6.443391,as submitted
+Brown onions,validation,2026-03,XGBoost,5.8749,6.443391,as submitted
+Brown onions,validation,2026-04,ANN,7.23427,7.468241,as submitted
+Brown onions,validation,2026-04,LSTM,6.096224,7.468241,as submitted
+Brown onions,validation,2026-04,Random Forest,7.1233,7.468241,as submitted
+Brown onions,validation,2026-04,SVR,7.0863,7.468241,as submitted
+Brown onions,validation,2026-04,XGBoost,7.8319,7.468241,as submitted
+Brown onions,test,2026-05,ANN,7.366074,5.522327,as submitted
+Brown onions,test,2026-05,LSTM,6.792011,5.522327,as submitted
+Brown onions,test,2026-05,Random Forest,6.5921,5.522327,as submitted
+Brown onions,test,2026-05,SVR,7.2984,5.522327,as submitted
+Brown onions,test,2026-05,XGBoost,7.8319,5.522327,as submitted
+Brown onions,test,2026-06,ANN,4.655674,12.256817,as submitted
+Brown onions,test,2026-06,LSTM,6.764244,12.256817,as submitted
+Brown onions,test,2026-06,Random Forest,5.1111,12.256817,as submitted
+Brown onions,test,2026-06,SVR,5.4306,12.256817,as submitted
+Brown onions,test,2026-06,XGBoost,4.8117,12.256817,as submitted
+Brown onions,test,2026-07,ANN,8.251299,10.667018,as submitted
+Brown onions,test,2026-07,LSTM,6.761173,10.667018,as submitted
+Brown onions,test,2026-07,Random Forest,10.9411,10.667018,as submitted
+Brown onions,test,2026-07,SVR,7.768,10.667018,as submitted
+Brown onions,test,2026-07,XGBoost,6.7687,10.667018,as submitted
+Brown onions,test,2026-08,ANN,7.174114,15.517288,as submitted
+Brown onions,test,2026-08,LSTM,6.546214,15.517288,as submitted
+Brown onions,test,2026-08,Random Forest,9.2797,15.517288,as submitted
+Brown onions,test,2026-08,SVR,6.2444,15.517288,as submitted
+Brown onions,test,2026-08,XGBoost,7.8319,15.517288,as submitted
+Tomatoes,test,2026-05,ANN,12.734491,26.701149,as submitted
+Tomatoes,test,2026-05,LSTM,15.368492,26.701149,as submitted
+Tomatoes,test,2026-05,Random Forest,16.0729,26.701149,as submitted
+Tomatoes,test,2026-05,SVR,15.6517,26.701149,as submitted
+Tomatoes,test,2026-05,XGBoost,13.5141,26.701149,as submitted
+Tomatoes,test,2026-06,ANN,12.734491,20.150297,as submitted
+Tomatoes,test,2026-06,LSTM,12.666561,20.150297,as submitted
+Tomatoes,test,2026-06,Random Forest,23.3853,20.150297,as submitted
+Tomatoes,test,2026-06,SVR,12.9203,20.150297,as submitted
+Tomatoes,test,2026-06,XGBoost,10.0629,20.150297,as submitted
+Tomatoes,test,2026-07,ANN,12.734491,14.174655,as submitted
+Tomatoes,test,2026-07,LSTM,11.567325,14.174655,as submitted
+Tomatoes,test,2026-07,Random Forest,16.7988,14.174655,as submitted
+Tomatoes,test,2026-07,SVR,13.0744,14.174655,as submitted
+Tomatoes,test,2026-07,XGBoost,9.1943,14.174655,as submitted
+Tomatoes,test,2026-08,ANN,12.734491,6.613675,as submitted
+Tomatoes,test,2026-08,LSTM,10.54705,6.613675,as submitted
+Tomatoes,test,2026-08,Random Forest,16.0353,6.613675,as submitted
+Tomatoes,test,2026-08,SVR,13.0871,6.613675,as submitted
+Tomatoes,test,2026-08,XGBoost,13.5154,6.613675,as submitted
+Tomatoes,validation,2026-01,ANN,12.734491,7.634633,as submitted
+Tomatoes,validation,2026-01,LSTM,11.428298,7.634633,as submitted
+Tomatoes,validation,2026-01,Random Forest,10.8679,7.634633,as submitted
+Tomatoes,validation,2026-01,SVR,12.2688,7.634633,as submitted
+Tomatoes,validation,2026-01,XGBoost,8.9308,7.634633,as submitted
+Tomatoes,validation,2026-02,ANN,12.734491,9.789748,as submitted
+Tomatoes,validation,2026-02,LSTM,12.538452,9.789748,as submitted
+Tomatoes,validation,2026-02,Random Forest,9.0492,9.789748,as submitted
+Tomatoes,validation,2026-02,SVR,11.9635,9.789748,as submitted
+Tomatoes,validation,2026-02,XGBoost,11.7542,9.789748,as submitted
+Tomatoes,validation,2026-03,ANN,12.734491,15.36318,as submitted
+Tomatoes,validation,2026-03,LSTM,13.826619,15.36318,as submitted
+Tomatoes,validation,2026-03,Random Forest,10.1459,15.36318,as submitted
+Tomatoes,validation,2026-03,SVR,14.6514,15.36318,as submitted
+Tomatoes,validation,2026-03,XGBoost,13.2617,15.36318,as submitted
+Tomatoes,validation,2026-04,ANN,12.734491,15.87658,as submitted
+Tomatoes,validation,2026-04,LSTM,14.886639,15.87658,as submitted
+Tomatoes,validation,2026-04,Random Forest,15.3089,15.87658,as submitted
+Tomatoes,validation,2026-04,SVR,16.821,15.87658,as submitted
+Tomatoes,validation,2026-04,XGBoost,12.0303,15.87658,as submitted
+Potatoes,validation,2026-01,Last-month baseline,6.34201,5.654342,as submitted
+Potatoes,validation,2026-01,Same-month-last-year baseline,6.294005,5.654342,as submitted
+Potatoes,validation,2026-02,Last-month baseline,5.654342,5.442639,as submitted
+Potatoes,validation,2026-02,Same-month-last-year baseline,7.544171,5.442639,as submitted
+Potatoes,validation,2026-03,Last-month baseline,5.442639,3.382263,as submitted
+Potatoes,validation,2026-03,Same-month-last-year baseline,6.358021,3.382263,as submitted
+Potatoes,validation,2026-04,Last-month baseline,3.382263,4.009881,as submitted
+Potatoes,validation,2026-04,Same-month-last-year baseline,5.475477,4.009881,as submitted
+Potatoes,test,2026-05,Last-month baseline,4.009881,4.197483,as submitted
+Potatoes,test,2026-05,Same-month-last-year baseline,6.434688,4.197483,as submitted
+Potatoes,test,2026-06,Last-month baseline,4.197483,3.993728,as submitted
+Potatoes,test,2026-06,Same-month-last-year baseline,6.200927,3.993728,as submitted
+Potatoes,test,2026-07,Last-month baseline,3.993728,5.058435,as submitted
+Potatoes,test,2026-07,Same-month-last-year baseline,6.200843,5.058435,as submitted
+Potatoes,test,2026-08,Last-month baseline,5.058435,5.913213,as submitted
+Potatoes,test,2026-08,Same-month-last-year baseline,5.087861,5.913213,as submitted
+Brown onions,validation,2026-01,Last-month baseline,4.560331,4.563583,as submitted
+Brown onions,validation,2026-01,Same-month-last-year baseline,4.341017,4.563583,as submitted
+Brown onions,validation,2026-02,Last-month baseline,4.563583,5.110602,as submitted
+Brown onions,validation,2026-02,Same-month-last-year baseline,4.037303,5.110602,as submitted
+Brown onions,validation,2026-03,Last-month baseline,5.110602,6.443391,as submitted
+Brown onions,validation,2026-03,Same-month-last-year baseline,4.779772,6.443391,as submitted
+Brown onions,validation,2026-04,Last-month baseline,6.443391,7.468241,as submitted
+Brown onions,validation,2026-04,Same-month-last-year baseline,4.149746,7.468241,as submitted
+Brown onions,test,2026-05,Last-month baseline,7.468241,5.522327,as submitted
+Brown onions,test,2026-05,Same-month-last-year baseline,6.418431,5.522327,as submitted
+Brown onions,test,2026-06,Last-month baseline,5.522327,12.256817,as submitted
+Brown onions,test,2026-06,Same-month-last-year baseline,10.824223,12.256817,as submitted
+Brown onions,test,2026-07,Last-month baseline,12.256817,10.667018,as submitted
+Brown onions,test,2026-07,Same-month-last-year baseline,8.294336,10.667018,as submitted
+Brown onions,test,2026-08,Last-month baseline,10.667018,15.517288,as submitted
+Brown onions,test,2026-08,Same-month-last-year baseline,6.468092,15.517288,as submitted
+Tomatoes,validation,2026-01,Last-month baseline,11.949915,7.634633,as submitted
+Tomatoes,validation,2026-01,Same-month-last-year baseline,9.858652,7.634633,as submitted
+Tomatoes,validation,2026-02,Last-month baseline,7.634633,9.789748,as submitted
+Tomatoes,validation,2026-02,Same-month-last-year baseline,11.937247,9.789748,as submitted
+Tomatoes,validation,2026-03,Last-month baseline,9.789748,15.36318,as submitted
+Tomatoes,validation,2026-03,Same-month-last-year baseline,13.21428,15.36318,as submitted
+Tomatoes,validation,2026-04,Last-month baseline,15.36318,15.87658,as submitted
+Tomatoes,validation,2026-04,Same-month-last-year baseline,16.179773,15.87658,as submitted
+Tomatoes,test,2026-05,Last-month baseline,15.87658,26.701149,as submitted
+Tomatoes,test,2026-05,Same-month-last-year baseline,14.141247,26.701149,as submitted
+Tomatoes,test,2026-06,Last-month baseline,26.701149,20.150297,as submitted
+Tomatoes,test,2026-06,Same-month-last-year baseline,13.640332,20.150297,as submitted
+Tomatoes,test,2026-07,Last-month baseline,20.150297,14.174655,as submitted
+Tomatoes,test,2026-07,Same-month-last-year baseline,18.9699,14.174655,as submitted
+Tomatoes,test,2026-08,Last-month baseline,14.174655,6.613675,as submitted
+Tomatoes,test,2026-08,Same-month-last-year baseline,10.039528,6.613675,as submitted
